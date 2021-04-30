@@ -5,7 +5,7 @@
         "spatie",
         "laravel-webhook-client"
     ],
-    "homepage": "https://github.com/spatie/laravel-webhook-client",
+    "homepage": "https://github.com/romanshul/laravel-webhook-client",
     "license": "MIT",
     "authors": [
         {
